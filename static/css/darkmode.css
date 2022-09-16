@@ -10,3 +10,7 @@
   /* in white, dark modes (#2bbc8a) in classic: #cc2a41 */
   background-color: #2bbc8a;
 }
+
+div.tabcontents {
+  background-color: inherit;
+}
