@@ -11,8 +11,8 @@ theme = "cactus"
   css = [
     "css/custom.css",
     "css/scrollbar.css",
-    ##### "css/darkmode.css",
     "css/nav-tabs.css",
+    # "css/darkmode.css",
   ]
   script = [
     "js/tabs.js"
