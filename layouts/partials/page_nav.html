@@ -1,0 +1,21 @@
+<div id="header-post">
+  <span id="menu" style="visibility: visible;">
+    <span id="actions">
+      <ul>
+        <li>
+          <i class="fas fa-share-alt" aria-hidden="true"></i>
+        </li>
+      </ul>
+    </span>
+    <br/>
+    <div id="share" >
+      {{ .Scratch.Set "icon_class_name" ""}}
+      {{ partial "share.html" . }}
+    </div>
+    {{ if not .Site.Params.tocInline }}
+    <div id="toc">
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+  </span>
+</div>

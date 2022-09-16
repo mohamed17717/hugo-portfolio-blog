@@ -1,0 +1,12 @@
+#header #logo { 
+  filter: invert(.8); 
+}
+
+#header:hover #logo {
+  filter: invert(.8);
+}
+
+#header #title ::after {
+  /* in white, dark modes (#2bbc8a) in classic: #cc2a41 */
+  background-color: #2bbc8a;
+}
