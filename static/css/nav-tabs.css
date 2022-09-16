@@ -1,14 +1,10 @@
-
-
-/* New Tabs */
-
 ul.tabs {
   padding: 7px 0;
   font-size: 0;
   margin: 0;
   list-style-type: none;
   text-align: left;
-  /*set to left, center, or right to align the tabs as desired*/
+  /* set to left, center, or right to align the tabs as desired */
 }
 
 ul.tabs li {
@@ -19,7 +15,7 @@ ul.tabs li {
 }
 
 ul.tabs li a {
-  font: normal 12px Verdana;
+  font-size: 14px;
   text-decoration: none;
   position: relative;
   z-index: 1;
