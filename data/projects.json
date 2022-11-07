@@ -50,13 +50,6 @@
     },
 
     {
-      "name": "Search Engine",
-      "url": "https://google.com",
-      "desc": "",
-      "category": "Science"
-    },
-
-    {
       "name": "Like Reddit API",
       "url": "https://github.com/mohamed17717/Like-Reddit-Backend-Clone",
       "desc": "Fully functional forum backend api that can be integrated with any frontend, there are many features for the admin to manage his forum and user to have a good experience ([Github](https://github.com/mohamed17717/Like-Reddit-Backend-Clone)).",
