@@ -24,3 +24,9 @@
   animation: cursor 1s infinite;
 }
 
+.project-list .project-item:not(:nth-last-child(1)){
+  display: block;
+  border-bottom: 3px dotted #ccc;
+  padding-bottom: 18px;
+  margin-bottom: 18px;
+}
