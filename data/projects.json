@@ -1,28 +1,80 @@
 {
   "list": [
     {
-      "name": "Hexo",
-      "url": "https://hexo.io/",
-      "desc": "A fast, simple & powerful blog framework",
-      "category": "tech"
+      "name": "Ninja Bag",
+      "url": "https://ninja-bag.devmhmd.com/",
+      "desc": "Collection of useful tools mainly for developers, all free and open source ([Github](https://github.com/mohamed17717/ninja-bag) | [Demo](https://ninja-bag.devmhmd.com/)).",
+      "category": "Service"
     },
+
     {
-      "name": "Hexo",
-      "url": "https://hexo.io/",
-      "desc": "A fast, simple & powerful blog framework",
-      "category": "tech"
+      "name": "Spot Review",
+      "url": "https://spot-review.devmhmd.com/",
+      "desc": "inspired form `invesion` application's feature, which allow designer to share a url of his design and allow the client to set the comment wherever he want on the page. which make it easier and accurate to understand each other ([Github](https://github.com/mohamed17717/spot-review) | [Demo](https://spot-review.devmhmd.com/)).",
+      "category": "Service"
     },
+
     {
-      "name": "Font Awesome",
-      "url": "http://fontawesome.io/",
-      "desc": "The iconic font and CSS toolkit",
-      "category": "frontend"
+      "name": "Youtube Audio Stream",
+      "url": "https://yt-audio.devmhmd.com/",
+      "desc": "Got annoying from Youtube application which can't run audio in background so i created this solution ([Demo](https://yt-audio.devmhmd.com/)).",
+      "category": "Service"
     },
+
     {
-      "name": "Hexo",
-      "url": "https://hexo.io/",
-      "desc": "A fast, simple & powerful blog framework",
-      "category": "tech"
+      "name": "GeTorrent",
+      "url": "https://getorrent.devmhmd.com/",
+      "desc": "find torrent (with different qualities) and subtitle (arabic & english) for the movie in one place. its resources are `https://yts.fm/` and `https://1337x.to/` ([Github](https://github.com/mohamed17717/geTorrent) | [Demo](https://getorrent.devmhmd.com/)).",
+      "category": "Service"
+    },
+
+    {
+      "name": "Echo Tester",
+      "url": "https://pypi.org/project/django-echo-tester/",
+      "desc": "Django app , that record requests that comes to your project then run them whenever you want to determine if things breaks while development (in case you don't have tests written) --- or you wanna to simulate a scenario each time you made a change ([pypi](https://pypi.org/project/django-echo-tester/)).",
+      "category": "Package"
+    },
+
+    {
+      "name": "Keyboard Actions",
+      "url": "https://www.npmjs.com/package/keyboard-actions",
+      "desc": "Keyboard-actions is a package that allows developers to make their websites accessible from keyboard, which will give their users away better experience ([npm](https://www.npmjs.com/package/keyboard-actions)).",
+      "category": "Package"
+    },
+
+    {
+      "name": "Auto Dark Mode",
+      "url": "https://www.npmjs.com/package/auto-dark-mode",
+      "desc": "Auto-dark-mode is a package to apply dark mode in any design. with just one line of code. Also give fully control to change the theme, posision and more. ([npm](https://www.npmjs.com/package/auto-dark-mode))",
+      "category": "Package"
+    },
+
+    {
+      "name": "Search Engine",
+      "url": "https://google.com",
+      "desc": "",
+      "category": "Science"
+    },
+
+    {
+      "name": "Like Reddit API",
+      "url": "https://github.com/mohamed17717/Like-Reddit-Backend-Clone",
+      "desc": "Fully functional forum backend api that can be integrated with any frontend, there are many features for the admin to manage his forum and user to have a good experience ([Github](https://github.com/mohamed17717/Like-Reddit-Backend-Clone)).",
+      "category": "API"
+    },
+
+    {
+      "name": "Scraping Helper",
+      "url": "https://github.com/mohamed17717/scraper-helper",
+      "desc": "Classes that saves time doing repeated stuff in scraping process ([Github](https://github.com/mohamed17717/scraper-helper)).",
+      "category": "G-Old"
+    },
+
+    {
+      "name": "Changes Log",
+      "url": "https://github.com/mohamed17717/changes-log",
+      "desc": "Make the clients following to the project changes ([Github](https://github.com/mohamed17717/changes-log)).",
+      "category": "G-Old"
     }
   ]
 }
