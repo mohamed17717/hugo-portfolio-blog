@@ -26,7 +26,7 @@ theme = "cactus"
   showAllPostsOnHomePage = true
   postsOnHomePage = 5
 
-  tagsOverview = true
+  tagsOverview = false
   tocInline = true
 
   showProjectsList = true
