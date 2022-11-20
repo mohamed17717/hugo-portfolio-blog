@@ -4,7 +4,7 @@ Blog and portfolio for a programmer to show out your skills.
 
 ## Installation
 
-(https://gohugo.io/installation/)[https://gohugo.io/installation/]
+[https://gohugo.io/installation/](https://gohugo.io/installation/)
 
 
 ## Development
@@ -46,5 +46,7 @@ update the file of `data/projects.json` with your projects & group them with the
 
 update `layouts` folder that should follow `themes/layouts` so hugo can override it
 
+### Theme
 
+update `config.toml` as the theme [doc](https://themes.gohugo.io/themes/hugo-theme-cactus/) explained.
 
