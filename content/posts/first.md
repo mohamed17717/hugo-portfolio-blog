@@ -1,7 +1,7 @@
 ---
 title: "First"
 date: 2022-09-10T06:35:38+02:00
-draft: true
+draft: false
 tags: ['dynamic']
 ---
 
