@@ -31,14 +31,31 @@ I'm now available for a part-time/freelance job 👷‍♂️ if you are interes
 
 As a full stack developer I'm working with those tools.
 
-- React
-- Typescript
-- Styled-Components
-- Redux
-- React Apollo
-- mongodb
+### Frontend
+
+- CSS / Sass
+- Tailwind
+- Hugo
+- Javascript / Typescript
+  - Vue
+  - React
+
+### Backend
+
+- Django
 - Node
-- Express
-- NextJs
-- css/scss/postcss
-- microservices
+- NoSQL
+  - Mongodb
+  - Firebase
+- SQL
+  - Postgres
+
+### More
+
+- Linux
+- GIT
+- Design Patterns
+- Algorithms / DataStructure
+- Problem Solving
+
+
