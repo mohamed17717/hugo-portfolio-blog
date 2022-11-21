@@ -8,7 +8,6 @@ draft: false
 ## Hey! I'm Mohamed 👋
 
 
-
 I’m a Software Engineer 💻, Crypto Trader 🪙 Gym Enthusiast 🏋️‍♂️ and Reader 📖.
 
 I was born in 1997 and grew up in Alexandria City 🌊. Passionate and Self study programming since 2016 and hoping spend my life writing codes 🤩.
@@ -18,8 +17,16 @@ BTW I studied Computer Science in Alexandria University 🏛 But i prefer to des
 
 ## Writing code for
 
-- Freelance 2020 - 2022
-- [Florinz](https://florinz.com) 2022 - 2023
+- **Freelance 2020 - 2022**
+    - Learning management systems / Blogs / eCommerce / Scraping / Automation.
+
+
+- **[Florinz](https://florinz.com) 2022 - 2023**
+    - Worked as a Back-end Developer to design and develop a system that offers many integrations in one place for restaurants.
+    - Experienced dealing with database improving its performance, designing and ORM best practices
+    - Apply Design Patterns.
+    - Implement Integrations with Foodics, Stripe, and more
+    - Reporting & KPI System / Loyalty System / Ordering System / User-Notification System
 
 
 ## Available to get hired ?
