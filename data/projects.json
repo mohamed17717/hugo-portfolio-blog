@@ -3,14 +3,14 @@
     {
       "name": "Ninja Bag",
       "url": "https://ninja-bag.devmhmd.com/",
-      "desc": "Collection of useful tools mainly for developers, all free and open source ([Github](https://github.com/mohamed17717/ninja-bag) | [Demo](https://ninja-bag.devmhmd.com/)).",
+      "desc": "A set of tools to assist developers with their daily tasks such as cors-proxy, thumbnail generator, URL shortener, and more, all free and open source ([Github](https://github.com/mohamed17717/ninja-bag) | [Demo](https://ninja-bag.devmhmd.com/)).",
       "category": "Service"
     },
 
     {
       "name": "Spot Review",
       "url": "https://spot-review.devmhmd.com/",
-      "desc": "inspired form `invesion` application's feature, which allow designer to share a url of his design and allow the client to set the comment wherever he want on the page. which make it easier and accurate to understand each other ([Github](https://github.com/mohamed17717/spot-review) | [Demo](https://spot-review.devmhmd.com/)).",
+      "desc": "Inspired by a function in the InVision design program that enables designers to share their work with clients and let those clients assess it in a precise location for quicker ([Github](https://github.com/mohamed17717/spot-review) | [Demo](https://spot-review.devmhmd.com/)).",
       "category": "Service"
     },
 
@@ -31,7 +31,7 @@
     {
       "name": "Echo Tester",
       "url": "https://pypi.org/project/django-echo-tester/",
-      "desc": "Django app , that record requests that comes to your project then run them whenever you want to determine if things breaks while development (in case you don't have tests written) --- or you wanna to simulate a scenario each time you made a change ([pypi](https://pypi.org/project/django-echo-tester/)).",
+      "desc": "If you want to check if something breaks while you're developing (in case you don't have tests written) or if you want to mimic a scenario each time you make a change, you may use a Django app that keeps track of requests that come to your project and runs them whenever you need to. ([pypi](https://pypi.org/project/django-echo-tester/)).",
       "category": "Package"
     },
 
