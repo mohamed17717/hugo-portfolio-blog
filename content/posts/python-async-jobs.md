@@ -2,7 +2,7 @@
 title: "Python Async Jobs"
 date: 2022-12-20T02:02:11+02:00
 draft: false
-tags: ['python', 'async']
+tags: ['python', 'async', 'multiprocessing']
 ---
 
 i wanna talk about 3 ways to make async jobs and use the whole processor power with python
